@@ -1,4 +1,4 @@
-# Game Programming End of Year Lab Test 2016
+# Game Programming Supplemental Lab Test 2016
 
 ## Instructions
 - Start with a blank Processing sketch
@@ -31,7 +31,9 @@ Here is the marking scheme:
 | Implementing people | 30 |
 | Use of git | 15 |
 
-You should create a new git repository for your work today and make at least 5 commits over the duration of the test to get full marks for use of git. When you are done, submit your git repo link. If you are not confident in using git, you can altarnatively submit a zip file of your work through webcourses.
+You should create a new git repository for your work today and make at least 5 commits over the duration of the test to get full marks for use of git. When you are done, submit your git repo link. If you are not confident in using git, you can altarnatively submit a zip file of your work through webcourses. 
+
+To get full marks, you should use classes, PVectors and Polymorphism in your solution, but alternative solutions are also acceptable for fewer marks.
 
 - [Submit your git repo link here](https://docs.google.com/forms/d/1m7oIH1u7tkRS8lb2iEYmymxdhZNQQz3wd2bSd8w5E5k/viewform)
 - (If you cant figure out git, you can submit a zip file of your code here)[http://www.dit.ie/lttc/webcourseslogin/]
